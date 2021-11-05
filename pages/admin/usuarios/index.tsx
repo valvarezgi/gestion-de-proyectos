@@ -5,8 +5,8 @@ const index = () => {
     return(
         <div>
             <div>Pagina de admin de usuarios</div> 
-            <Link>
-            <a href="/">Ir al home</a>
+            <Link href="/">
+            <a>Ir al home</a>
             </Link>
         </div>
     )
